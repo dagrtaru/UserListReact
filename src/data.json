@@ -1,0 +1,94 @@
+{
+	"ok": true,
+	"members": [{
+			"id": "W012A3CDE",
+			"real_name": "Egon Spengler",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCRPA4",
+			"real_name": "Glinda Southgood",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Feb 1 2020  1:33PM",
+					"end_time": "Feb 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Mar 1 2020  11:11AM",
+					"end_time": "Mar 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Mar 16 2020  5:33PM",
+					"end_time": "Mar 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCDMN8",
+			"real_name": "Jackson Clark",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Jan 1 2020  1:33PM",
+					"end_time": "Jan 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Feb 1 2020  11:11AM",
+					"end_time": "Feb 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Feb 16 2020  5:33PM",
+					"end_time": "Feb 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCJIS6",
+			"real_name": "Oscar Booth",
+			"tz": "Asia/Kolkata",
+			"activity_periods": [{
+					"start_time": "Mar 21 2020  1:33PM",
+					"end_time": "Mar 21 2020 2:54PM"
+				},
+				{
+					"start_time": "Apr 1 2020  11:11AM",
+					"end_time": "Apr 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Apr 16 2020  5:33PM",
+					"end_time": "Apr 16 2020 8:02PM"
+				}
+			]
+		},
+		{
+			"id": "W07QCQAA5",
+			"real_name": "Kayla Graham",
+			"tz": "America/Los_Angeles",
+			"activity_periods": [{
+					"start_time": "Apr 1 2020  1:33PM",
+					"end_time": "Apr 1 2020 1:54PM"
+				},
+				{
+					"start_time": "Jun 1 2020  11:11AM",
+					"end_time": "Jun 1 2020 2:00PM"
+				},
+				{
+					"start_time": "Jun 16 2020  5:33PM",
+					"end_time": "Jun 16 2020 8:02PM"
+				}
+			]
+		}
+	]
+}
