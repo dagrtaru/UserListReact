@@ -1,3 +1,11 @@
+A React app which parses a JSON file and retrieves user information. It then displays the user Names and IDs
+as a list. Further details about the user can be viewed using the Details button, wherein an animated modal
+pops up with all details about the times during which an user was active. The initial JSON file was extrapolated
+using dummy data.
+
+This app was deployed to Heroku and can be viewed [here](https://react-userlist.herokuapp.com/).
+
+-----------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
